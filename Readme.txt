@@ -1,6 +1,6 @@
 ----------------------------------------Read me--------------------------------------
 
-There are two directory,
+There are two directories,
 
 1.server-Nodejs code
 	To start the server enter the "node server.js" in node CLI.it will run in localhost:8080 
